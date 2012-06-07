@@ -1,4 +1,8 @@
-sinatra-twitterboostrap-backbone
-================================
+sinatra-twitterbootstrap-backbone
+=================================
+RUBY - Sinatra
+SASS - Twitter Bootstrap
+COFFEESCRIPT - Backbone.js
 
-sinatra(ruby)-twitterbootstrap(sass)-backbone(coffeescript)
+Template
+
